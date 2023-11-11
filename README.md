@@ -5,4 +5,5 @@ Github is awesome!
 
 ## Description
 
-this is a change from featureC
+- this is a change from featureC
+- change mande in featureB
